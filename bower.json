@@ -1,0 +1,20 @@
+{
+  "name": "apache-markdown-handler",
+  "authors": [
+    "Philip Iezzi <info@onlime.ch>"
+  ],
+  "description": "Apache Markdown Handler",
+  "homepage": "https://www.onlime.ch/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "~7.0.0",
+    "jquery": "~3.2.1"
+  }
+}
